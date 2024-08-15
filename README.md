@@ -16,8 +16,7 @@ bun dev
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-To See a working deployment click here...
-[inventory-tracker-version-1-jc3shfonm-mocodesstuffs-projects.vercel.app]
+To See a working deployment click [here](inventory-tracker-version-1-jc3shfonm-mocodesstuffs-projects.vercel.app)...
 
 You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
 
